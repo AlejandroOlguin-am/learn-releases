@@ -7,5 +7,5 @@ setup(
     description="Un paquete pip simple de saludo",  # Breve descripción
     author="Alejandro Olguin",                         # Tu nombre
     author_email="alejandro@yuravision.com",                 # Tu correo electrónico
-    url="https://github.com/AlejandroOlguin-am/learn-releases",     # URL del proyecto
+    url="https://github.com/alejandroolguin-am/learnReleases",     # URL del proyecto
 )
